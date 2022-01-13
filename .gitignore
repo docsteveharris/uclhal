@@ -1,15 +1,19 @@
 # My ignores
 # ==========
-# sublime and my local todo
+# Steve: sublime and my local todo
 *.sublime-*
 todo.todo
 *.bak
 .doit.db.db
 .DS_Store
 
+# Ahmed's changes
+.doit.*
+
 # as per Nikola recommendations for github deployment
 cache
 .doit.db
+
 output
 
 # As per github python ignore
@@ -143,4 +147,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
